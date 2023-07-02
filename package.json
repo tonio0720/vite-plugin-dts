@@ -1,9 +1,9 @@
 {
-  "name": "vite-plugin-dts",
-  "version": "3.0.2",
+  "name": "vite-plugin-dts-svelte",
+  "version": "2.0.0",
   "type": "module",
   "license": "MIT",
-  "author": "qmhc",
+  "author": "yoshida-valuesccg",
   "packageManager": "pnpm@8.3.0",
   "scripts": {
     "build": "tsx scripts/build.ts",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qmhc/vite-plugin-dts.git"
+    "url": "git+https://github.com/yoshida-valuesccg/vite-plugin-dts-svelte.git"
   },
   "bugs": {
-    "url": "https://github.com/qmhc/vite-plugin-dts/issues"
+    "url": "https://github.com/yoshida-valuesccg/vite-plugin-dts-svelte/issues"
   },
   "keywords": [
     "vite",
